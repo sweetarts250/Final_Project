@@ -1474,3 +1474,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.20-20.40.23:557][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 1.93 sec)
 [2023.11.20-20.40.23:560][500]AssetCheck: New page: Asset Save: M_Chair
 [2023.11.20-20.40.23:560][500]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+[2023.11.20-20.46.07:577][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.20-20.46.07:581][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-20.46.07:722][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2023.11.20-20.46.07:722][ 99]LogSavePackage: Moving '../../../../../../Users/pachecosanma/Documents/GitHub/Final_Project/Final/Saved/GK06JAEJ82TQ0GA2QB0DJG0BA383854C4F92ABBB1A069029F394D8.tmp' to '../../../../../../Users/pachecosanma/Documents/GitHub/Final_Project/Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2023.11.20-20.46.07:725][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ZL/V09XTQSVPXGBH4KV7XI4UI
+[2023.11.20-20.46.07:725][ 99]LogSavePackage: Moving '../../../../../../Users/pachecosanma/Documents/GitHub/Final_Project/Final/Saved/V09XTQSVPXGBH4KV7XI4UI86ADEEBF4DFEBF992F45C9B9E653A61E.tmp' to '../../../../../../Users/pachecosanma/Documents/GitHub/Final_Project/Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ZL/V09XTQSVPXGBH4KV7XI4UI.uasset'
+[2023.11.20-20.46.07:785][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 2.14 sec)
+[2023.11.20-20.46.07:790][ 99]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-20.46.07:790][ 99]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C1F963ABE01_1613461007
+[2023.11.20-20.46.07:790][ 99]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
