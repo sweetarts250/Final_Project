@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/pachecosanma/Documents/GitHub/Final_Project/Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/pachecosanma/Documents/GitHub/Final_Project/Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/pachecosanma/Documents/GitHub/Final_Project/Final/Content/SM_Chair1.uasset",
+				"C:/Users/pachecosanma/Documents/GitHub/Final_Project/Final/Content/StarterContent/Props/Materials/M_Chair.uasset"
 			]
 		}
 	]
